@@ -40,7 +40,7 @@ The amortization and investment simulation platform calculates and analyzes fina
         />
           
         </a>
-        <a href="https://github.com/MarlonCopara/Sistema-Amortizacion-Frontend" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/MarlonCopara/Sistema-Registro-Asistencia" target="_blank" rel="noopener noreferrer">
         <ProjectsCard
           title="Attendance Registration System"
           des="

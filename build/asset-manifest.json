@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Portafolio-Copa/build/static/css/main.65748a76.css",
-    "main.js": "/Portafolio-Copa/build/static/js/main.a6708b13.js",
+    "main.js": "/Portafolio-Copa/build/static/js/main.df554e67.js",
     "static/media/bannerImg.png": "/Portafolio-Copa/build/static/media/bannerImg.9e686d39b6cc42f24134.png",
     "static/media/contactImg.png": "/Portafolio-Copa/build/static/media/contactImg.13da4cb34535487a7759.png",
     "static/media/logo.png": "/Portafolio-Copa/build/static/media/logo.bdba645e3c2019b93835.png",
     "index.html": "/Portafolio-Copa/build/index.html",
     "main.65748a76.css.map": "/Portafolio-Copa/build/static/css/main.65748a76.css.map",
-    "main.a6708b13.js.map": "/Portafolio-Copa/build/static/js/main.a6708b13.js.map"
+    "main.df554e67.js.map": "/Portafolio-Copa/build/static/js/main.df554e67.js.map"
   },
   "entrypoints": [
     "static/css/main.65748a76.css",
-    "static/js/main.a6708b13.js"
+    "static/js/main.df554e67.js"
   ]
 }
