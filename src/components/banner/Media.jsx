@@ -36,7 +36,7 @@ const Media = () => {
           </h2>
           <div className="flex gap-5">
           <span className="bannerIcon">
-            <a href="https://firebasestorage.googleapis.com/v0/b/appimagenes-c548e.appspot.com/o/CV_Marlon_Alexis_Copara_Allauca.pdf?alt=media&token=64fefdc4-4a20-4b62-9a26-0fe37b42c150">
+            <a href="https://firebasestorage.googleapis.com/v0/b/appimagenes-c548e.appspot.com/o/CoparaMarlonCV.pdf?alt=media&token=510adcbe-a281-40ec-bc18-fb8f5f3c42b4">
             <FaDownload />
             </a> 
             </span>
